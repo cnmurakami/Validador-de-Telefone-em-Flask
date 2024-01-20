@@ -11,7 +11,7 @@ Clone o repositório e execute o server.py em um terminal, como no exemplo abaix
 py .\server.py
 ```
 
-Uma mensagem similar ao apresentado abaixo deve aparecer, sinalizando que o servidor Flask está em execução e apresentando uma url:
+Uma mensagem similar à apresentada abaixo deve aparecer, sinalizando que o servidor Flask está em execução e apresentando uma url:
 
 ```powershell
  * Serving Flask app 'server'
